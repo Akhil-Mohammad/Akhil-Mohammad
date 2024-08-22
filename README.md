@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **FUll-Stack-Application**
+- 👯 I’m looking to collaborate on **Full-Stack-Application**
 
 - 💬 Ask me about **Java, Springboot, Monitoringtools, Database**
 
